@@ -31,7 +31,7 @@ body{
     
     width: 300px;
     height: 420px;
-    border-radius: 10px;
+    border-radius: 15px;
 
     top: 150px;
     left: 532px;
@@ -141,6 +141,7 @@ hr {
 footer {
     font-size: 11px;
     text-align: center;
+    margin-bottom: 10px;
 }
 
 footer a {
